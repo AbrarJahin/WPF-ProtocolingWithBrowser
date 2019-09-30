@@ -6,4 +6,6 @@ D:\netcoreapp3.0>Protocoling.exe "anything you like"
 Publish in a single exe file-
 =============================
 
-dotnet publish -r win-x64 -c Release /p:PublishSingleFile=true
+dotnet build
+dotnet publish -r win-x64 -c Release /p:PublishSingleFile=true  --self-contained true
+
