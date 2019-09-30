@@ -1,0 +1,1 @@
+Please store "netcoreapp3.0" folder into "D" drive before running reg file

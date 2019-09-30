@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Protocoling": {
+      "commandName": "Project",
+      "commandLineArgs": "Anything"
+    }
+  }
+}
