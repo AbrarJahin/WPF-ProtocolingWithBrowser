@@ -38,6 +38,8 @@ namespace Protocoling
                 //Open the WPF UI
                 MessageBox.Show("Clicked");
             }
+            //Exit program if no error has occured
+            System.Windows.Application.Current.Shutdown();
         }
     }
 }
